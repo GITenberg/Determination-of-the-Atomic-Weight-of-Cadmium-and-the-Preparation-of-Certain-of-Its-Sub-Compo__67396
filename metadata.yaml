@@ -1,0 +1,36 @@
+_repo: Determination-of-the-Atomic-Weight-of-Cadmium-and-the-Preparation-of-Certain-of-Its-Sub-Compo__67396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jones, Harry C. (Harry Clary)
+    aliases:
+    - Jones, H. C. (Harry Clary)
+    - Jones, Harry Clary
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '54254'
+    url: http://www.gutenberg.org/2009/agents/54254
+    wikipedia: https://en.wikipedia.org/wiki/Harry_Clary_Jones
+description: ''
+gutenberg_issued: '2022-02-13'
+identifiers:
+  gutenberg: '67396'
+language: en
+pgterms:marc905: 20210728192956jones
+pgterms:marc906: '1892'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Harry C. Jones,1892.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Cadmium'
+- !lcc 'QD'
+- !lcsh 'Atomic weights'
+- GITenberg
+title: Determination of the Atomic Weight of Cadmium and the Preparation of Certain
+  of Its Sub-Compounds
+url: http://www.gutenberg.org/ebooks/67396
